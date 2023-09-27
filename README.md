@@ -1,6 +1,6 @@
 # Vanilla JS Projects
 
-#### Enroll In The Course
+#### Enroll In The Course from John Smilga
 
 [My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
 
